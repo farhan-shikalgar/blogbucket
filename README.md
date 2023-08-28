@@ -6,6 +6,15 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 
+## Tech Stack
+
+**Client:** React, TailwindCSS, GraphQL,  Nextjs 
+
+**Server:** Vercel
+
+
+
+
 # Blog Bucket
 
 Fully responsive  Blog App is the best GraphQL Blog Application
